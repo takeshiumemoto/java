@@ -14,4 +14,5 @@ public class aif {
             System.out.println("あなたは太りすぎです");
         }
     }
+    
 }
